@@ -62,4 +62,20 @@ The result is Bulgaria has 8 UNESCO sites and it shares the place 32 . Also in [
 # Srebarna Nature Reserve: ![graph14: ](Bulgaria/Bulgaria-7.jpg)
 # Pirin National Park: ![graph14: ](Bulgaria/Bulgaria-8.jpg)
 
+# Before our hypothesis : 
+We can see how much Cultural sites recognized by UNESCO has the Old Continent . 
+
+![graph15: ](graphs/newplot (1).png)
+
+# H1 : The computing of the geographical points on a interactive map 
+for both datasets, the location of sites by UNESCO and the location of the representatives of different ages.
+This shows us how the places of big civilization migrations have left enormous sites with cultural significance. Which means, visually approves that a lot of vital people have live and left culture most in Europe. 
+
+![graph16: ](graphs/newplot (2).png)
+
+# Also we can conclude that the Europe 
+is a crossroad for the world, and especially Bulgaria is the gate to the Europe and the West , as we see how is the pattern of the migration as the world progreses. Also, this is good example to show where the big civilization have begin to emerge and from where they way progresed.
+On the map above, The earlier examples are with light colors, thus easily we can follow the pattern of the migrations. 
+
+![graph17: ](graphs/newplot (3).png)
 
