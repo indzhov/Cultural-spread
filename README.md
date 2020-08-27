@@ -52,14 +52,14 @@ After the calculation and comparison the result is different. This time more app
 Of course I want to see which are the location in my own country and where it stands in the overall classification. 
 The result is Bulgaria has 8 UNESCO sites and it shares the place 32 . Also in [(the code)](https://github.com/indzhov/Cultural-spread/blob/master/Untitled.ipynb) there is a function with a for loop, which finds and downloads the images from the bulgarian location . they are as follow. 
 
-# Boyana Church : ![graph7: ](Bulgaria/Bulgaria-0.png)
-# Madara Rider : ![graph8: ](Bulgaria/Bulgaria-1.png)
-# Thracian Tomb of Kazanlak : ![graph9: ](Bulgaria/Bulgaria-2.png)
-# Rock-Hewn Churches of Ivanovo : ![graph10: ](Bulgaria/Bulgaria-3.png)
-# Rila Monastery: ![graph11: ](Bulgaria/Bulgaria-4.png)
-# Ancient City of Nessebar: ![graph12: ](Bulgaria/Bulgaria-5.png)
-# Thracian Tomb of Sveshtari: ![graph13: ](Bulgaria/Bulgaria-6.png)
-# Srebarna Nature Reserve: ![graph14: ](Bulgaria/Bulgaria-7.png)
-# Pirin National Park: ![graph14: ](Bulgaria/Bulgaria-8.png)
+# Boyana Church : ![graph7: ](Bulgaria/Bulgaria-0.jpg)
+# Madara Rider : ![graph8: ](Bulgaria/Bulgaria-1.jpg)
+# Thracian Tomb of Kazanlak : ![graph9: ](Bulgaria/Bulgaria-2.jpg)
+# Rock-Hewn Churches of Ivanovo : ![graph10: ](Bulgaria/Bulgaria-3.jpg)
+# Rila Monastery: ![graph11: ](Bulgaria/Bulgaria-4.jpg)
+# Ancient City of Nessebar: ![graph12: ](Bulgaria/Bulgaria-5.jpg)
+# Thracian Tomb of Sveshtari: ![graph13: ](Bulgaria/Bulgaria-6.jpg)
+# Srebarna Nature Reserve: ![graph14: ](Bulgaria/Bulgaria-7.jpg)
+# Pirin National Park: ![graph14: ](Bulgaria/Bulgaria-8.jpg)
 
 
