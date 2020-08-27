@@ -1,3 +1,4 @@
+# [Cultural spread](https://indzhov.github.io/Cultural-spread/) 
 [(the code)](https://github.com/indzhov/Cultural-spread/blob/master/Untitled.ipynb)  
 
 # The aims of the project : 
@@ -70,10 +71,11 @@ We can see how much Cultural sites recognized by UNESCO has the Old Continent .
 # H1 : The computing of the geographical points on a interactive map 
 for both datasets, the location of sites by UNESCO and the location of the representatives of different ages.
 This shows us how the places of big civilization migrations have left enormous sites with cultural significance. Which means, visually approves that a lot of vital people have live and left culture most in Europe. 
+(Red : people ; Blue : sites)
 
 ![graph16: ](graphs/newplot (2).png)
 
-# Also we can conclude that the Europe 
+# H2 : We can conclude that the Europe 
 is a crossroad for the world, and especially Bulgaria is the gate to the Europe and the West , as we see how is the pattern of the migration as the world progreses. Also, this is good example to show where the big civilization have begin to emerge and from where they way progresed.
 On the map above, The earlier examples are with light colors, thus easily we can follow the pattern of the migrations. 
 
